@@ -9,7 +9,7 @@
 
 ### Stack Overflow Question 35040233
 
-Xcode project & source code related to [Subclass a UIControl and preview in Interface Builder with `IBDesignable` and `IBInspectable`](http://stackoverflow.com/a/35040693/218152) anwser.
+Xcode project & source code related to [Subclass a UIControl and preview in Interface Builder with `IBDesignable` and `IBInspectable`](https://stackoverflow.com/questions/35040233/change-alpha-of-imageview-of-uibutton/35040693#35040693) answer.
 
 ---
 
@@ -19,6 +19,6 @@ Xcode project & source code related to [Subclass a UIControl and preview in Inte
 
 **References:**
 
-- SO-35040233 on [Stack Overflow](http://stackoverflow.com/questions/35040233/change-alpha-of-imageview-of-uibutton)
+- Question [35040233](https://stackoverflow.com/questions/35040233) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
